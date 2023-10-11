@@ -3,7 +3,7 @@
     <a href="https://www.nikaa.online/en/">My Portfolio</a>
     <br/>
      <br/>
-    <img src="https://komarev.com/ghpvc/?username=etherbits&style=flat-square&color=70a5fd" />
+    <img src="https://komarev.com/ghpvc/?username=etherbits&style=for-the-badge&color=82A2C2" />
     <h2>Stats</h2>
     <div align="center">
             <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=etherbits&theme=nord"/></a>
