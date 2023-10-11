@@ -1,6 +1,5 @@
 <div>
-    <h1>Nika Qvrivishvili</h1> 
-    <p>Full-Stack Web Developer</p>
+    <h1>Nika Qvrivishvili - Full-Stack Web Developer</h1> 
     <a href="https://www.nikaa.online/en/">My Portfolio</a>
     <br/>
      <br/>
