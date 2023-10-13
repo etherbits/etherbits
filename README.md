@@ -1,7 +1,7 @@
 <div>
     <h1>Nika Qvrivishvili</h1> 
     <p>Full-Stack Web Developer</p>
-    <a href="https://www.nikaa.online/en/">My Portfolio</a>
+    <a href="https://www.nikaa.online/en/">Portfolio</a>
     <br/>
      <br/>
     <img src="https://komarev.com/ghpvc/?username=etherbits&style=for-the-badge&color=82A2C2" />
