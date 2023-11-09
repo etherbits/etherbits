@@ -7,6 +7,6 @@
     <img src="https://komarev.com/ghpvc/?username=etherbits&style=for-the-badge&color=82A2C2" />
     <h2>Stats</h2>
     <div align="center">
-            <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=etherbits&theme=nord"/></a>
-        <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherbits&theme=nord&layout=normal&langs_count=3&hide=shell,css,scss,html,php&card_width=495"/></div> 
+            <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=etherbits&theme=blueberry"/></a>
+        <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherbits&theme=blueberry&layout=normal&langs_count=3&hide=shell,css,scss,html,php&card_width=495"/></div> 
 </div>
